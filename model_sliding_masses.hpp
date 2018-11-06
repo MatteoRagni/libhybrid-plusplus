@@ -54,9 +54,9 @@
  * \f[
  *   \mathcal{D} = \left\{
  *     (x, u) \, : \,
- *      (x_3 - x_1) \geq \frac{d}/2 \; \mathrm{and} \; (x_4 - x_2) \geq 0
+ *      (x_3 - x_1) \geq \frac{d}{2} \; \mathrm{and} \; (x_4 - x_2) \geq 0
  *      \quad \mathrm{or} \quad
- *      (x_3 - x_1) \leq -\frac{d}/2 \; \mathrm{and} \; (x_4 - x_2) \leq 0
+ *      (x_3 - x_1) \leq -\frac{d}{2} \; \mathrm{and} \; (x_4 - x_2) \leq 0
  *   \right\}
  * \f]
  *
